@@ -23,18 +23,18 @@ public class Order
                 InvoiceOrder(); 
                 break;
             default:
-                Console.WriteLine("Недопустимий перехід стану.");
+                Console.WriteLine("Unprocessable state of the order.");
                 break;
         }
     }
     private void ShipOrder()
     {
-        Console.WriteLine("Замовлення відправлено.");
+        Console.WriteLine("Order is shipped.");
         State = State.Shipped;
     }
     private void InvoiceOrder()
     {
-        Console.WriteLine("Замовлення оплачено.");
+        Console.WriteLine("Order is invoiced.");
         State = State.Invoiced;
     }
 }
@@ -44,10 +44,10 @@ internal static class Program
     private static void Main()
     {
         Order order = new Order();
-        Console.WriteLine("Початковий стан замовлення: " + order.State);
+        Console.WriteLine("Order state: " + order.State);
         order.ProcessOrder();
-        Console.WriteLine("Поточний стан замовлення: " + order.State);
+        Console.WriteLine("Order state: " + order.State);
         order.ProcessOrder(); 
-        Console.WriteLine("Поточний стан замовлення: " + order.State);
+        Console.WriteLine("Order state: " + order.State);
     }
 }

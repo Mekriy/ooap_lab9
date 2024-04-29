@@ -12,3 +12,4 @@ C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\
 C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.pdb
 C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.genruntimeconfig.cache
 C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ref\ooap_lab9.dll
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.sourcelink.json
