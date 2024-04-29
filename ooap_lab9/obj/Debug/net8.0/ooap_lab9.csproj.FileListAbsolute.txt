@@ -1,0 +1,14 @@
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\bin\Debug\net8.0\ooap_lab9.exe
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\bin\Debug\net8.0\ooap_lab9.deps.json
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\bin\Debug\net8.0\ooap_lab9.runtimeconfig.json
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\bin\Debug\net8.0\ooap_lab9.dll
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\bin\Debug\net8.0\ooap_lab9.pdb
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.AssemblyInfoInputs.cache
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.AssemblyInfo.cs
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.csproj.CoreCompileInputs.cache
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.dll
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\refint\ooap_lab9.dll
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.pdb
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ooap_lab9.genruntimeconfig.cache
+C:\NLTU\My nltu reports\3rd course\2 sem\ООАП\ooap_lab9\ooap_lab9\obj\Debug\net8.0\ref\ooap_lab9.dll
